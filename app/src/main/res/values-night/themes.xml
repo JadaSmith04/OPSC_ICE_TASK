@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.OPSC_ICE_TASK_2_GOALS" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@drawable/darkmode</item> <!-- Black background for dark mode -->
+        <item name="android:textColor">@android:color/white</item> <!-- White text for dark mode -->
+    </style>
+</resources>
